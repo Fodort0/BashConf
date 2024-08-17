@@ -8,7 +8,7 @@ alias info="fastfetch --logo 'C:/Users/ftama/Documents/AsciiArt/art.txt'"
 alias vim="nvim"
 alias ds="cd /c/Users/ftama/Desktop"
 alias ..="cd .."
-
+alias open="explorer.exe ."
 # Variable to store the Windows path from the custom pwd command
 LAST_WIN_PATH=""
 
